@@ -99,3 +99,6 @@ button{
                transition-duration: 0.3s;
 			   cursor:pointer;
             }
+#submit{width:193px; height:30px;}
+	
+}
